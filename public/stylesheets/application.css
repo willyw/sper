@@ -1,6 +1,6 @@
 body { width:100%;  font-size:14px; font-family:  Trebuchet MS,Trebuchet,Arial,Helvetica,sans-serif; color:rgb(10,10,10);min-width: 960px;}
 body { background-color: rgb(250,250,250);}
-#main { width:960px; margin:0 auto; /*border:1px solid black;*/}
+#main { width:970px; margin:0 auto; /*border:1px solid black;*/}
 #footer { text-align:center;}
 #wrap {background: url("/images/sebuah_permainan2.jpg") no-repeat scroll center top transparent ; padding-top:50px;} 
 
@@ -11,7 +11,7 @@ body { background-color: rgb(250,250,250);}
 	#creator { -moz-border-radius: 20px;}
 	#creator a.name { display:block; margin-bottom:10px; text-decoration: none; font-size: 18px;}
 	#creator p.profile { margin-bottom : 30px; height:140px;}
-	#creator h3 { font-size: 22px; margin-bottom:10px; padding: 10px 0;}
+	#creator h3 { font-size: 22px; margin-bottom:10px; padding: 10px 0; text-decoration: underline;}
 	#creator h3 span.audioteam { background-color: blue;}
 	#creator h3 span.videoteam { background-color: red;}
 		
