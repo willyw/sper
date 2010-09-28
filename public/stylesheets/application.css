@@ -16,7 +16,9 @@ body { background-color: rgb(250,250,250);}
 	#creator h3 span.videoteam { background-color: red;}
 	#creator a.pic-band-wrapper {  display:block; float:right; margin-left:15px;}	
 	#creator a.pic-video-wrapper {  display:block; float:left; margin-right:15px;}	
-	#creator cite { position: relative; top: 10px; line-height:18px; font-family: Verdana;}
+	#creator cite { position: relative; line-height:18px; font-family: Verdana;}
 	
 		#audio { text-align:right; width:46.5%; float: left; }
+		#audio p.profile { padding-left:10px; }
 		#video { text-align:left; width:46.5%; float: right ; }
+		#video p.profile { padding-right: 10px;}
