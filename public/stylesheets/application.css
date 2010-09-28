@@ -14,6 +14,9 @@ body { background-color: rgb(250,250,250);}
 	#creator h3 { font-size: 22px; margin-bottom:10px; padding: 10px 0; text-decoration: underline;}
 	#creator h3 span.audioteam { background-color: blue;}
 	#creator h3 span.videoteam { background-color: red;}
-		
-		#audio { text-align:right; width:46%; float: left; }
-		#video { text-align:left; width:46%; float: right ; }
+	#creator a.pic-band-wrapper {  display:block; float:right; margin-left:15px;}	
+	#creator a.pic-video-wrapper {  display:block; float:left; margin-right:15px;}	
+	#creator cite { position: relative; top: 15px; line-height:15px;}
+	
+		#audio { text-align:right; width:46.5%; float: left; }
+		#video { text-align:left; width:46.5%; float: right ; }
