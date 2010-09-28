@@ -8,7 +8,7 @@ body { width:100%;  font-size:14px; font-family:  Trebuchet MS,Trebuchet,Arial,H
 	
 	#creator{ width:900px; margin: 0 auto; }
 	#creator a.name { display:block; margin-bottom:10px; text-decoration: none; font-size: 18px;}
-	#creator p.profile { margin-bottom : 30px;}
+	#creator p.profile { margin-bottom : 30px; height:170px;}
 		
 		#audio { text-align:right; width:45%; float: left; }
 		#video { text-align:left; width:45%; float: right ; }
